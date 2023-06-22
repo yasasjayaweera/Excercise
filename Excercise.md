@@ -7,3 +7,5 @@ Fill the TODO and upload it to your GITHUB repo
 ### 3. Add CSS Style sheet with some cool styles
 
 ### 4. Finally, publish your GitHub page
+
+### 5. Test
